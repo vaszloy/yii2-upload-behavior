@@ -1,5 +1,5 @@
 {
-  "name": "bajadev/yii2-upload-behavior",
+  "name": "vaszloy/yii2-upload-behavior",
   "type": "yii2-extension",
   "description": "Yii2 file/image upload behavior for ActiveRecord",
   "keywords": [
@@ -9,16 +9,6 @@
     "behavior",
     "resize",
     "thumb"
-  ],
-  "license": "MIT",
-  "homepage": "http://bajadev.hu",
-  "authors": [
-    {
-      "name": "Bajadev",
-      "email": "info@bajadev.hu",
-      "homepage": "http://bajadev.hu",
-      "role": "Developer"
-    }
   ],
   "require": {
     "php": ">=7.1",
