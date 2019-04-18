@@ -32,7 +32,7 @@
     },
     {
       "type": "git",
-      "url": "https://github.com/Bajadev/yii2-upload-behavior"
+      "url": "https://github.com/vaszloy/yii2-upload-behavior"
     }
   ],
   "autoload": {
