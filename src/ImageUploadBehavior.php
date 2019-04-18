@@ -1,5 +1,5 @@
 <?php
-namespace bajadev\upload;
+namespace vaszloy\upload;
 
 use Imagine\Image\Box;
 use yii\helpers\ArrayHelper;

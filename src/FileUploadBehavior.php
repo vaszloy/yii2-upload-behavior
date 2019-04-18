@@ -1,5 +1,5 @@
 <?php
-namespace bajadev\upload;
+namespace vaszloy\upload;
 
 use Yii;
 use yii\base\Exception;
