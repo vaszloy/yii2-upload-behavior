@@ -10,6 +10,7 @@
     "resize",
     "thumb"
   ],
+  "minimum-stability": "stable",
   "require": {
     "php": ">=7.1",
     "yiisoft/yii2": ">=2.0.13",
